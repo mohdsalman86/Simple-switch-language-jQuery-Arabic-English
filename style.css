@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+
+#container{
+  
+  margin: auto;
+  padding: 50px;
+  border: 1px solid #666;
+  background: #82BBC6;
+}
+
+select {
+ font-family: "Droid Arabic Kufi",serif;
+    font-size: 14px;
+    height: 50%;
+    width: 100%;
+}
+.droid-arabic-kufi{font-family: 'Droid Arabic Kufi', serif;}
+
+
+
+.language { position: absolute; top: 5px; right: 5px; padding: 20px; }
+.english { display: inline;   font-family: "Lucida Grande";
+    font-size: 19px;}
+.arabic { display: none; font-family: 'Droid Arabic Kufi', serif; text-align: right; font-size: 15px; margin-top: 5em;
+
+}
+
+ 
+
+ 
+
+
+ 
